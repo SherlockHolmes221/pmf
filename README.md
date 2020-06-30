@@ -5,6 +5,7 @@ Unofficial code for PMF(HICO-DET)
 see [PMF_README](https://github.com/bobwan1995/PMFNet) for details 
 
 ## Prepare data 
+Download the our dataset annotations and detection/keypoint proposals from [our data](https://pan.baidu.com/s/1XIeKw4bB1JlrdL2xElZwnw w8bz).
  ```
   data
   ├───hico
