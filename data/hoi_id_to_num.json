@@ -1,0 +1,2402 @@
+{
+    "001": {
+        "num": 176,
+        "rare": false
+    },
+    "002": {
+        "num": 98,
+        "rare": false
+    },
+    "003": {
+        "num": 56,
+        "rare": false
+    },
+    "004": {
+        "num": 181,
+        "rare": false
+    },
+    "005": {
+        "num": 198,
+        "rare": false
+    },
+    "006": {
+        "num": 75,
+        "rare": false
+    },
+    "007": {
+        "num": 284,
+        "rare": false
+    },
+    "008": {
+        "num": 319,
+        "rare": false
+    },
+    "009": {
+        "num": 4,
+        "rare": true
+    },
+    "010": {
+        "num": 274,
+        "rare": false
+    },
+    "011": {
+        "num": 23,
+        "rare": false
+    },
+    "012": {
+        "num": 1995,
+        "rare": false
+    },
+    "013": {
+        "num": 138,
+        "rare": false
+    },
+    "014": {
+        "num": 121,
+        "rare": false
+    },
+    "015": {
+        "num": 27,
+        "rare": false
+    },
+    "016": {
+        "num": 17,
+        "rare": false
+    },
+    "017": {
+        "num": 116,
+        "rare": false
+    },
+    "018": {
+        "num": 87,
+        "rare": false
+    },
+    "019": {
+        "num": 2206,
+        "rare": false
+    },
+    "020": {
+        "num": 1904,
+        "rare": false
+    },
+    "021": {
+        "num": 2250,
+        "rare": false
+    },
+    "022": {
+        "num": 180,
+        "rare": false
+    },
+    "023": {
+        "num": 2,
+        "rare": true
+    },
+    "024": {
+        "num": 396,
+        "rare": false
+    },
+    "025": {
+        "num": 45,
+        "rare": false
+    },
+    "026": {
+        "num": 257,
+        "rare": false
+    },
+    "027": {
+        "num": 127,
+        "rare": false
+    },
+    "028": {
+        "num": 5,
+        "rare": true
+    },
+    "029": {
+        "num": 16,
+        "rare": false
+    },
+    "030": {
+        "num": 439,
+        "rare": false
+    },
+    "031": {
+        "num": 85,
+        "rare": false
+    },
+    "032": {
+        "num": 103,
+        "rare": false
+    },
+    "033": {
+        "num": 214,
+        "rare": false
+    },
+    "034": {
+        "num": 39,
+        "rare": false
+    },
+    "035": {
+        "num": 117,
+        "rare": false
+    },
+    "036": {
+        "num": 11,
+        "rare": false
+    },
+    "037": {
+        "num": 176,
+        "rare": false
+    },
+    "038": {
+        "num": 63,
+        "rare": false
+    },
+    "039": {
+        "num": 4051,
+        "rare": false
+    },
+    "040": {
+        "num": 757,
+        "rare": false
+    },
+    "041": {
+        "num": 380,
+        "rare": false
+    },
+    "042": {
+        "num": 2385,
+        "rare": false
+    },
+    "043": {
+        "num": 1626,
+        "rare": false
+    },
+    "044": {
+        "num": 44,
+        "rare": false
+    },
+    "045": {
+        "num": 2,
+        "rare": true
+    },
+    "046": {
+        "num": 401,
+        "rare": false
+    },
+    "047": {
+        "num": 154,
+        "rare": false
+    },
+    "048": {
+        "num": 160,
+        "rare": false
+    },
+    "049": {
+        "num": 540,
+        "rare": false
+    },
+    "050": {
+        "num": 51,
+        "rare": false
+    },
+    "051": {
+        "num": 7,
+        "rare": true
+    },
+    "052": {
+        "num": 17,
+        "rare": false
+    },
+    "053": {
+        "num": 23,
+        "rare": false
+    },
+    "054": {
+        "num": 527,
+        "rare": false
+    },
+    "055": {
+        "num": 247,
+        "rare": false
+    },
+    "056": {
+        "num": 6,
+        "rare": true
+    },
+    "057": {
+        "num": 463,
+        "rare": false
+    },
+    "058": {
+        "num": 29,
+        "rare": false
+    },
+    "059": {
+        "num": 27,
+        "rare": false
+    },
+    "060": {
+        "num": 71,
+        "rare": false
+    },
+    "061": {
+        "num": 1519,
+        "rare": false
+    },
+    "062": {
+        "num": 992,
+        "rare": false
+    },
+    "063": {
+        "num": 6,
+        "rare": true
+    },
+    "064": {
+        "num": 1,
+        "rare": true
+    },
+    "065": {
+        "num": 226,
+        "rare": false
+    },
+    "066": {
+        "num": 27,
+        "rare": false
+    },
+    "067": {
+        "num": 1,
+        "rare": true
+    },
+    "068": {
+        "num": 367,
+        "rare": false
+    },
+    "069": {
+        "num": 60,
+        "rare": false
+    },
+    "070": {
+        "num": 94,
+        "rare": false
+    },
+    "071": {
+        "num": 1,
+        "rare": true
+    },
+    "072": {
+        "num": 22,
+        "rare": false
+    },
+    "073": {
+        "num": 26,
+        "rare": false
+    },
+    "074": {
+        "num": 591,
+        "rare": false
+    },
+    "075": {
+        "num": 175,
+        "rare": false
+    },
+    "076": {
+        "num": 1051,
+        "rare": false
+    },
+    "077": {
+        "num": 1,
+        "rare": true
+    },
+    "078": {
+        "num": 4,
+        "rare": true
+    },
+    "079": {
+        "num": 158,
+        "rare": false
+    },
+    "080": {
+        "num": 76,
+        "rare": false
+    },
+    "081": {
+        "num": 6,
+        "rare": true
+    },
+    "082": {
+        "num": 70,
+        "rare": false
+    },
+    "083": {
+        "num": 49,
+        "rare": false
+    },
+    "084": {
+        "num": 3,
+        "rare": true
+    },
+    "085": {
+        "num": 1,
+        "rare": true
+    },
+    "086": {
+        "num": 102,
+        "rare": false
+    },
+    "087": {
+        "num": 52,
+        "rare": false
+    },
+    "088": {
+        "num": 112,
+        "rare": false
+    },
+    "089": {
+        "num": 80,
+        "rare": false
+    },
+    "090": {
+        "num": 1266,
+        "rare": false
+    },
+    "091": {
+        "num": 1,
+        "rare": true
+    },
+    "092": {
+        "num": 327,
+        "rare": false
+    },
+    "093": {
+        "num": 28,
+        "rare": false
+    },
+    "094": {
+        "num": 228,
+        "rare": false
+    },
+    "095": {
+        "num": 913,
+        "rare": false
+    },
+    "096": {
+        "num": 55,
+        "rare": false
+    },
+    "097": {
+        "num": 10,
+        "rare": false
+    },
+    "098": {
+        "num": 245,
+        "rare": false
+    },
+    "099": {
+        "num": 96,
+        "rare": false
+    },
+    "100": {
+        "num": 5,
+        "rare": true
+    },
+    "101": {
+        "num": 5,
+        "rare": true
+    },
+    "102": {
+        "num": 52,
+        "rare": false
+    },
+    "103": {
+        "num": 32,
+        "rare": false
+    },
+    "104": {
+        "num": 49,
+        "rare": false
+    },
+    "105": {
+        "num": 6,
+        "rare": true
+    },
+    "106": {
+        "num": 127,
+        "rare": false
+    },
+    "107": {
+        "num": 504,
+        "rare": false
+    },
+    "108": {
+        "num": 5,
+        "rare": true
+    },
+    "109": {
+        "num": 2338,
+        "rare": false
+    },
+    "110": {
+        "num": 3209,
+        "rare": false
+    },
+    "111": {
+        "num": 235,
+        "rare": false
+    },
+    "112": {
+        "num": 97,
+        "rare": false
+    },
+    "113": {
+        "num": 2,
+        "rare": true
+    },
+    "114": {
+        "num": 12,
+        "rare": false
+    },
+    "115": {
+        "num": 11,
+        "rare": false
+    },
+    "116": {
+        "num": 326,
+        "rare": false
+    },
+    "117": {
+        "num": 26,
+        "rare": false
+    },
+    "118": {
+        "num": 176,
+        "rare": false
+    },
+    "119": {
+        "num": 18,
+        "rare": false
+    },
+    "120": {
+        "num": 20,
+        "rare": false
+    },
+    "121": {
+        "num": 162,
+        "rare": false
+    },
+    "122": {
+        "num": 20,
+        "rare": false
+    },
+    "123": {
+        "num": 83,
+        "rare": false
+    },
+    "124": {
+        "num": 16,
+        "rare": false
+    },
+    "125": {
+        "num": 50,
+        "rare": false
+    },
+    "126": {
+        "num": 128,
+        "rare": false
+    },
+    "127": {
+        "num": 25,
+        "rare": false
+    },
+    "128": {
+        "num": 3,
+        "rare": true
+    },
+    "129": {
+        "num": 211,
+        "rare": false
+    },
+    "130": {
+        "num": 23,
+        "rare": false
+    },
+    "131": {
+        "num": 36,
+        "rare": false
+    },
+    "132": {
+        "num": 829,
+        "rare": false
+    },
+    "133": {
+        "num": 26,
+        "rare": false
+    },
+    "134": {
+        "num": 141,
+        "rare": false
+    },
+    "135": {
+        "num": 11,
+        "rare": false
+    },
+    "136": {
+        "num": 1,
+        "rare": true
+    },
+    "137": {
+        "num": 8,
+        "rare": true
+    },
+    "138": {
+        "num": 86,
+        "rare": false
+    },
+    "139": {
+        "num": 225,
+        "rare": false
+    },
+    "140": {
+        "num": 1526,
+        "rare": false
+    },
+    "141": {
+        "num": 510,
+        "rare": false
+    },
+    "142": {
+        "num": 1190,
+        "rare": false
+    },
+    "143": {
+        "num": 89,
+        "rare": false
+    },
+    "144": {
+        "num": 100,
+        "rare": false
+    },
+    "145": {
+        "num": 26,
+        "rare": false
+    },
+    "146": {
+        "num": 62,
+        "rare": false
+    },
+    "147": {
+        "num": 979,
+        "rare": false
+    },
+    "148": {
+        "num": 69,
+        "rare": false
+    },
+    "149": {
+        "num": 124,
+        "rare": false
+    },
+    "150": {
+        "num": 3,
+        "rare": true
+    },
+    "151": {
+        "num": 106,
+        "rare": false
+    },
+    "152": {
+        "num": 12,
+        "rare": false
+    },
+    "153": {
+        "num": 447,
+        "rare": false
+    },
+    "154": {
+        "num": 1366,
+        "rare": false
+    },
+    "155": {
+        "num": 1688,
+        "rare": false
+    },
+    "156": {
+        "num": 1592,
+        "rare": false
+    },
+    "157": {
+        "num": 258,
+        "rare": false
+    },
+    "158": {
+        "num": 15,
+        "rare": false
+    },
+    "159": {
+        "num": 3,
+        "rare": true
+    },
+    "160": {
+        "num": 587,
+        "rare": false
+    },
+    "161": {
+        "num": 87,
+        "rare": false
+    },
+    "162": {
+        "num": 19,
+        "rare": false
+    },
+    "163": {
+        "num": 518,
+        "rare": false
+    },
+    "164": {
+        "num": 262,
+        "rare": false
+    },
+    "165": {
+        "num": 62,
+        "rare": false
+    },
+    "166": {
+        "num": 5,
+        "rare": true
+    },
+    "167": {
+        "num": 1,
+        "rare": true
+    },
+    "168": {
+        "num": 150,
+        "rare": false
+    },
+    "169": {
+        "num": 7,
+        "rare": true
+    },
+    "170": {
+        "num": 700,
+        "rare": false
+    },
+    "171": {
+        "num": 10,
+        "rare": false
+    },
+    "172": {
+        "num": 10,
+        "rare": false
+    },
+    "173": {
+        "num": 9,
+        "rare": true
+    },
+    "174": {
+        "num": 233,
+        "rare": false
+    },
+    "175": {
+        "num": 21,
+        "rare": false
+    },
+    "176": {
+        "num": 93,
+        "rare": false
+    },
+    "177": {
+        "num": 571,
+        "rare": false
+    },
+    "178": {
+        "num": 175,
+        "rare": false
+    },
+    "179": {
+        "num": 32,
+        "rare": false
+    },
+    "180": {
+        "num": 2,
+        "rare": true
+    },
+    "181": {
+        "num": 26,
+        "rare": false
+    },
+    "182": {
+        "num": 1,
+        "rare": true
+    },
+    "183": {
+        "num": 111,
+        "rare": false
+    },
+    "184": {
+        "num": 129,
+        "rare": false
+    },
+    "185": {
+        "num": 5,
+        "rare": true
+    },
+    "186": {
+        "num": 509,
+        "rare": false
+    },
+    "187": {
+        "num": 111,
+        "rare": false
+    },
+    "188": {
+        "num": 118,
+        "rare": false
+    },
+    "189": {
+        "num": 4,
+        "rare": true
+    },
+    "190": {
+        "num": 2,
+        "rare": true
+    },
+    "191": {
+        "num": 583,
+        "rare": false
+    },
+    "192": {
+        "num": 306,
+        "rare": false
+    },
+    "193": {
+        "num": 8,
+        "rare": true
+    },
+    "194": {
+        "num": 264,
+        "rare": false
+    },
+    "195": {
+        "num": 31,
+        "rare": false
+    },
+    "196": {
+        "num": 3,
+        "rare": true
+    },
+    "197": {
+        "num": 225,
+        "rare": false
+    },
+    "198": {
+        "num": 270,
+        "rare": false
+    },
+    "199": {
+        "num": 7,
+        "rare": true
+    },
+    "200": {
+        "num": 18,
+        "rare": false
+    },
+    "201": {
+        "num": 50,
+        "rare": false
+    },
+    "202": {
+        "num": 223,
+        "rare": false
+    },
+    "203": {
+        "num": 29,
+        "rare": false
+    },
+    "204": {
+        "num": 25,
+        "rare": false
+    },
+    "205": {
+        "num": 28,
+        "rare": false
+    },
+    "206": {
+        "num": 2,
+        "rare": true
+    },
+    "207": {
+        "num": 2,
+        "rare": true
+    },
+    "208": {
+        "num": 45,
+        "rare": false
+    },
+    "209": {
+        "num": 944,
+        "rare": false
+    },
+    "210": {
+        "num": 80,
+        "rare": false
+    },
+    "211": {
+        "num": 20,
+        "rare": false
+    },
+    "212": {
+        "num": 16,
+        "rare": false
+    },
+    "213": {
+        "num": 1021,
+        "rare": false
+    },
+    "214": {
+        "num": 147,
+        "rare": false
+    },
+    "215": {
+        "num": 9,
+        "rare": true
+    },
+    "216": {
+        "num": 327,
+        "rare": false
+    },
+    "217": {
+        "num": 4,
+        "rare": true
+    },
+    "218": {
+        "num": 116,
+        "rare": false
+    },
+    "219": {
+        "num": 318,
+        "rare": false
+    },
+    "220": {
+        "num": 202,
+        "rare": false
+    },
+    "221": {
+        "num": 11,
+        "rare": false
+    },
+    "222": {
+        "num": 26,
+        "rare": false
+    },
+    "223": {
+        "num": 3,
+        "rare": true
+    },
+    "224": {
+        "num": 342,
+        "rare": false
+    },
+    "225": {
+        "num": 50,
+        "rare": false
+    },
+    "226": {
+        "num": 83,
+        "rare": false
+    },
+    "227": {
+        "num": 719,
+        "rare": false
+    },
+    "228": {
+        "num": 1,
+        "rare": true
+    },
+    "229": {
+        "num": 336,
+        "rare": false
+    },
+    "230": {
+        "num": 2,
+        "rare": true
+    },
+    "231": {
+        "num": 623,
+        "rare": false
+    },
+    "232": {
+        "num": 49,
+        "rare": false
+    },
+    "233": {
+        "num": 198,
+        "rare": false
+    },
+    "234": {
+        "num": 199,
+        "rare": false
+    },
+    "235": {
+        "num": 11,
+        "rare": false
+    },
+    "236": {
+        "num": 21,
+        "rare": false
+    },
+    "237": {
+        "num": 61,
+        "rare": false
+    },
+    "238": {
+        "num": 100,
+        "rare": false
+    },
+    "239": {
+        "num": 3,
+        "rare": true
+    },
+    "240": {
+        "num": 2,
+        "rare": true
+    },
+    "241": {
+        "num": 328,
+        "rare": false
+    },
+    "242": {
+        "num": 154,
+        "rare": false
+    },
+    "243": {
+        "num": 33,
+        "rare": false
+    },
+    "244": {
+        "num": 13,
+        "rare": false
+    },
+    "245": {
+        "num": 87,
+        "rare": false
+    },
+    "246": {
+        "num": 2019,
+        "rare": false
+    },
+    "247": {
+        "num": 233,
+        "rare": false
+    },
+    "248": {
+        "num": 127,
+        "rare": false
+    },
+    "249": {
+        "num": 824,
+        "rare": false
+    },
+    "250": {
+        "num": 562,
+        "rare": false
+    },
+    "251": {
+        "num": 696,
+        "rare": false
+    },
+    "252": {
+        "num": 215,
+        "rare": false
+    },
+    "253": {
+        "num": 75,
+        "rare": false
+    },
+    "254": {
+        "num": 34,
+        "rare": false
+    },
+    "255": {
+        "num": 3,
+        "rare": true
+    },
+    "256": {
+        "num": 2,
+        "rare": true
+    },
+    "257": {
+        "num": 63,
+        "rare": false
+    },
+    "258": {
+        "num": 1,
+        "rare": true
+    },
+    "259": {
+        "num": 45,
+        "rare": false
+    },
+    "260": {
+        "num": 45,
+        "rare": false
+    },
+    "261": {
+        "num": 1,
+        "rare": true
+    },
+    "262": {
+        "num": 2,
+        "rare": true
+    },
+    "263": {
+        "num": 1,
+        "rare": true
+    },
+    "264": {
+        "num": 26,
+        "rare": false
+    },
+    "265": {
+        "num": 321,
+        "rare": false
+    },
+    "266": {
+        "num": 102,
+        "rare": false
+    },
+    "267": {
+        "num": 302,
+        "rare": false
+    },
+    "268": {
+        "num": 75,
+        "rare": false
+    },
+    "269": {
+        "num": 143,
+        "rare": false
+    },
+    "270": {
+        "num": 30,
+        "rare": false
+    },
+    "271": {
+        "num": 11,
+        "rare": false
+    },
+    "272": {
+        "num": 76,
+        "rare": false
+    },
+    "273": {
+        "num": 178,
+        "rare": false
+    },
+    "274": {
+        "num": 102,
+        "rare": false
+    },
+    "275": {
+        "num": 4,
+        "rare": true
+    },
+    "276": {
+        "num": 26,
+        "rare": false
+    },
+    "277": {
+        "num": 38,
+        "rare": false
+    },
+    "278": {
+        "num": 197,
+        "rare": false
+    },
+    "279": {
+        "num": 22,
+        "rare": false
+    },
+    "280": {
+        "num": 1,
+        "rare": true
+    },
+    "281": {
+        "num": 1,
+        "rare": true
+    },
+    "282": {
+        "num": 3,
+        "rare": true
+    },
+    "283": {
+        "num": 47,
+        "rare": false
+    },
+    "284": {
+        "num": 183,
+        "rare": false
+    },
+    "285": {
+        "num": 538,
+        "rare": false
+    },
+    "286": {
+        "num": 188,
+        "rare": false
+    },
+    "287": {
+        "num": 1,
+        "rare": true
+    },
+    "288": {
+        "num": 235,
+        "rare": false
+    },
+    "289": {
+        "num": 131,
+        "rare": false
+    },
+    "290": {
+        "num": 1,
+        "rare": true
+    },
+    "291": {
+        "num": 69,
+        "rare": false
+    },
+    "292": {
+        "num": 44,
+        "rare": false
+    },
+    "293": {
+        "num": 6,
+        "rare": true
+    },
+    "294": {
+        "num": 11,
+        "rare": false
+    },
+    "295": {
+        "num": 476,
+        "rare": false
+    },
+    "296": {
+        "num": 139,
+        "rare": false
+    },
+    "297": {
+        "num": 115,
+        "rare": false
+    },
+    "298": {
+        "num": 312,
+        "rare": false
+    },
+    "299": {
+        "num": 16,
+        "rare": false
+    },
+    "300": {
+        "num": 15,
+        "rare": false
+    },
+    "301": {
+        "num": 81,
+        "rare": false
+    },
+    "302": {
+        "num": 35,
+        "rare": false
+    },
+    "303": {
+        "num": 51,
+        "rare": false
+    },
+    "304": {
+        "num": 1,
+        "rare": true
+    },
+    "305": {
+        "num": 292,
+        "rare": false
+    },
+    "306": {
+        "num": 10,
+        "rare": false
+    },
+    "307": {
+        "num": 58,
+        "rare": false
+    },
+    "308": {
+        "num": 123,
+        "rare": false
+    },
+    "309": {
+        "num": 273,
+        "rare": false
+    },
+    "310": {
+        "num": 44,
+        "rare": false
+    },
+    "311": {
+        "num": 83,
+        "rare": false
+    },
+    "312": {
+        "num": 1,
+        "rare": true
+    },
+    "313": {
+        "num": 276,
+        "rare": false
+    },
+    "314": {
+        "num": 42,
+        "rare": false
+    },
+    "315": {
+        "num": 107,
+        "rare": false
+    },
+    "316": {
+        "num": 2,
+        "rare": true
+    },
+    "317": {
+        "num": 13,
+        "rare": false
+    },
+    "318": {
+        "num": 2,
+        "rare": true
+    },
+    "319": {
+        "num": 14,
+        "rare": false
+    },
+    "320": {
+        "num": 79,
+        "rare": false
+    },
+    "321": {
+        "num": 461,
+        "rare": false
+    },
+    "322": {
+        "num": 193,
+        "rare": false
+    },
+    "323": {
+        "num": 54,
+        "rare": false
+    },
+    "324": {
+        "num": 664,
+        "rare": false
+    },
+    "325": {
+        "num": 11,
+        "rare": false
+    },
+    "326": {
+        "num": 1,
+        "rare": true
+    },
+    "327": {
+        "num": 28,
+        "rare": false
+    },
+    "328": {
+        "num": 15,
+        "rare": false
+    },
+    "329": {
+        "num": 9,
+        "rare": true
+    },
+    "330": {
+        "num": 234,
+        "rare": false
+    },
+    "331": {
+        "num": 140,
+        "rare": false
+    },
+    "332": {
+        "num": 111,
+        "rare": false
+    },
+    "333": {
+        "num": 29,
+        "rare": false
+    },
+    "334": {
+        "num": 6,
+        "rare": true
+    },
+    "335": {
+        "num": 2,
+        "rare": true
+    },
+    "336": {
+        "num": 131,
+        "rare": false
+    },
+    "337": {
+        "num": 97,
+        "rare": false
+    },
+    "338": {
+        "num": 323,
+        "rare": false
+    },
+    "339": {
+        "num": 442,
+        "rare": false
+    },
+    "340": {
+        "num": 17,
+        "rare": false
+    },
+    "341": {
+        "num": 239,
+        "rare": false
+    },
+    "342": {
+        "num": 89,
+        "rare": false
+    },
+    "343": {
+        "num": 163,
+        "rare": false
+    },
+    "344": {
+        "num": 12,
+        "rare": false
+    },
+    "345": {
+        "num": 23,
+        "rare": false
+    },
+    "346": {
+        "num": 2,
+        "rare": true
+    },
+    "347": {
+        "num": 413,
+        "rare": false
+    },
+    "348": {
+        "num": 104,
+        "rare": false
+    },
+    "349": {
+        "num": 49,
+        "rare": false
+    },
+    "350": {
+        "num": 50,
+        "rare": false
+    },
+    "351": {
+        "num": 2,
+        "rare": true
+    },
+    "352": {
+        "num": 1,
+        "rare": true
+    },
+    "353": {
+        "num": 76,
+        "rare": false
+    },
+    "354": {
+        "num": 156,
+        "rare": false
+    },
+    "355": {
+        "num": 6,
+        "rare": true
+    },
+    "356": {
+        "num": 37,
+        "rare": false
+    },
+    "357": {
+        "num": 146,
+        "rare": false
+    },
+    "358": {
+        "num": 116,
+        "rare": false
+    },
+    "359": {
+        "num": 1,
+        "rare": true
+    },
+    "360": {
+        "num": 105,
+        "rare": false
+    },
+    "361": {
+        "num": 221,
+        "rare": false
+    },
+    "362": {
+        "num": 50,
+        "rare": false
+    },
+    "363": {
+        "num": 96,
+        "rare": false
+    },
+    "364": {
+        "num": 44,
+        "rare": false
+    },
+    "365": {
+        "num": 3,
+        "rare": true
+    },
+    "366": {
+        "num": 48,
+        "rare": false
+    },
+    "367": {
+        "num": 218,
+        "rare": false
+    },
+    "368": {
+        "num": 104,
+        "rare": false
+    },
+    "369": {
+        "num": 43,
+        "rare": false
+    },
+    "370": {
+        "num": 219,
+        "rare": false
+    },
+    "371": {
+        "num": 724,
+        "rare": false
+    },
+    "372": {
+        "num": 539,
+        "rare": false
+    },
+    "373": {
+        "num": 112,
+        "rare": false
+    },
+    "374": {
+        "num": 152,
+        "rare": false
+    },
+    "375": {
+        "num": 442,
+        "rare": false
+    },
+    "376": {
+        "num": 114,
+        "rare": false
+    },
+    "377": {
+        "num": 210,
+        "rare": false
+    },
+    "378": {
+        "num": 573,
+        "rare": false
+    },
+    "379": {
+        "num": 40,
+        "rare": false
+    },
+    "380": {
+        "num": 1,
+        "rare": true
+    },
+    "381": {
+        "num": 583,
+        "rare": false
+    },
+    "382": {
+        "num": 5,
+        "rare": true
+    },
+    "383": {
+        "num": 39,
+        "rare": false
+    },
+    "384": {
+        "num": 228,
+        "rare": false
+    },
+    "385": {
+        "num": 36,
+        "rare": false
+    },
+    "386": {
+        "num": 622,
+        "rare": false
+    },
+    "387": {
+        "num": 14,
+        "rare": false
+    },
+    "388": {
+        "num": 246,
+        "rare": false
+    },
+    "389": {
+        "num": 191,
+        "rare": false
+    },
+    "390": {
+        "num": 1,
+        "rare": true
+    },
+    "391": {
+        "num": 5,
+        "rare": true
+    },
+    "392": {
+        "num": 7,
+        "rare": true
+    },
+    "393": {
+        "num": 18,
+        "rare": false
+    },
+    "394": {
+        "num": 47,
+        "rare": false
+    },
+    "395": {
+        "num": 56,
+        "rare": false
+    },
+    "396": {
+        "num": 1,
+        "rare": true
+    },
+    "397": {
+        "num": 42,
+        "rare": false
+    },
+    "398": {
+        "num": 1,
+        "rare": true
+    },
+    "399": {
+        "num": 3,
+        "rare": true
+    },
+    "400": {
+        "num": 3,
+        "rare": true
+    },
+    "401": {
+        "num": 37,
+        "rare": false
+    },
+    "402": {
+        "num": 1,
+        "rare": true
+    },
+    "403": {
+        "num": 1,
+        "rare": true
+    },
+    "404": {
+        "num": 3,
+        "rare": true
+    },
+    "405": {
+        "num": 7,
+        "rare": true
+    },
+    "406": {
+        "num": 2,
+        "rare": true
+    },
+    "407": {
+        "num": 128,
+        "rare": false
+    },
+    "408": {
+        "num": 4,
+        "rare": true
+    },
+    "409": {
+        "num": 13,
+        "rare": false
+    },
+    "410": {
+        "num": 81,
+        "rare": false
+    },
+    "411": {
+        "num": 5,
+        "rare": true
+    },
+    "412": {
+        "num": 18,
+        "rare": false
+    },
+    "413": {
+        "num": 23,
+        "rare": false
+    },
+    "414": {
+        "num": 69,
+        "rare": false
+    },
+    "415": {
+        "num": 36,
+        "rare": false
+    },
+    "416": {
+        "num": 24,
+        "rare": false
+    },
+    "417": {
+        "num": 1,
+        "rare": true
+    },
+    "418": {
+        "num": 271,
+        "rare": false
+    },
+    "419": {
+        "num": 1,
+        "rare": true
+    },
+    "420": {
+        "num": 83,
+        "rare": false
+    },
+    "421": {
+        "num": 36,
+        "rare": false
+    },
+    "422": {
+        "num": 49,
+        "rare": false
+    },
+    "423": {
+        "num": 124,
+        "rare": false
+    },
+    "424": {
+        "num": 184,
+        "rare": false
+    },
+    "425": {
+        "num": 59,
+        "rare": false
+    },
+    "426": {
+        "num": 52,
+        "rare": false
+    },
+    "427": {
+        "num": 5,
+        "rare": true
+    },
+    "428": {
+        "num": 1,
+        "rare": true
+    },
+    "429": {
+        "num": 112,
+        "rare": false
+    },
+    "430": {
+        "num": 2,
+        "rare": true
+    },
+    "431": {
+        "num": 38,
+        "rare": false
+    },
+    "432": {
+        "num": 4,
+        "rare": true
+    },
+    "433": {
+        "num": 22,
+        "rare": false
+    },
+    "434": {
+        "num": 36,
+        "rare": false
+    },
+    "435": {
+        "num": 186,
+        "rare": false
+    },
+    "436": {
+        "num": 62,
+        "rare": false
+    },
+    "437": {
+        "num": 3,
+        "rare": true
+    },
+    "438": {
+        "num": 21,
+        "rare": false
+    },
+    "439": {
+        "num": 30,
+        "rare": false
+    },
+    "440": {
+        "num": 1,
+        "rare": true
+    },
+    "441": {
+        "num": 3,
+        "rare": true
+    },
+    "442": {
+        "num": 120,
+        "rare": false
+    },
+    "443": {
+        "num": 197,
+        "rare": false
+    },
+    "444": {
+        "num": 12,
+        "rare": false
+    },
+    "445": {
+        "num": 85,
+        "rare": false
+    },
+    "446": {
+        "num": 148,
+        "rare": false
+    },
+    "447": {
+        "num": 247,
+        "rare": false
+    },
+    "448": {
+        "num": 89,
+        "rare": false
+    },
+    "449": {
+        "num": 25,
+        "rare": false
+    },
+    "450": {
+        "num": 2,
+        "rare": true
+    },
+    "451": {
+        "num": 12,
+        "rare": false
+    },
+    "452": {
+        "num": 9,
+        "rare": true
+    },
+    "453": {
+        "num": 79,
+        "rare": false
+    },
+    "454": {
+        "num": 137,
+        "rare": false
+    },
+    "455": {
+        "num": 435,
+        "rare": false
+    },
+    "456": {
+        "num": 258,
+        "rare": false
+    },
+    "457": {
+        "num": 410,
+        "rare": false
+    },
+    "458": {
+        "num": 982,
+        "rare": false
+    },
+    "459": {
+        "num": 58,
+        "rare": false
+    },
+    "460": {
+        "num": 1681,
+        "rare": false
+    },
+    "461": {
+        "num": 22,
+        "rare": false
+    },
+    "462": {
+        "num": 1488,
+        "rare": false
+    },
+    "463": {
+        "num": 123,
+        "rare": false
+    },
+    "464": {
+        "num": 5,
+        "rare": true
+    },
+    "465": {
+        "num": 66,
+        "rare": false
+    },
+    "466": {
+        "num": 90,
+        "rare": false
+    },
+    "467": {
+        "num": 21,
+        "rare": false
+    },
+    "468": {
+        "num": 124,
+        "rare": false
+    },
+    "469": {
+        "num": 29,
+        "rare": false
+    },
+    "470": {
+        "num": 5,
+        "rare": true
+    },
+    "471": {
+        "num": 685,
+        "rare": false
+    },
+    "472": {
+        "num": 892,
+        "rare": false
+    },
+    "473": {
+        "num": 1013,
+        "rare": false
+    },
+    "474": {
+        "num": 19,
+        "rare": false
+    },
+    "475": {
+        "num": 5,
+        "rare": true
+    },
+    "476": {
+        "num": 38,
+        "rare": false
+    },
+    "477": {
+        "num": 61,
+        "rare": false
+    },
+    "478": {
+        "num": 157,
+        "rare": false
+    },
+    "479": {
+        "num": 355,
+        "rare": false
+    },
+    "480": {
+        "num": 631,
+        "rare": false
+    },
+    "481": {
+        "num": 651,
+        "rare": false
+    },
+    "482": {
+        "num": 721,
+        "rare": false
+    },
+    "483": {
+        "num": 3,
+        "rare": true
+    },
+    "484": {
+        "num": 244,
+        "rare": false
+    },
+    "485": {
+        "num": 93,
+        "rare": false
+    },
+    "486": {
+        "num": 1,
+        "rare": true
+    },
+    "487": {
+        "num": 32,
+        "rare": false
+    },
+    "488": {
+        "num": 134,
+        "rare": false
+    },
+    "489": {
+        "num": 60,
+        "rare": false
+    },
+    "490": {
+        "num": 179,
+        "rare": false
+    },
+    "491": {
+        "num": 91,
+        "rare": false
+    },
+    "492": {
+        "num": 131,
+        "rare": false
+    },
+    "493": {
+        "num": 234,
+        "rare": false
+    },
+    "494": {
+        "num": 339,
+        "rare": false
+    },
+    "495": {
+        "num": 111,
+        "rare": false
+    },
+    "496": {
+        "num": 299,
+        "rare": false
+    },
+    "497": {
+        "num": 11,
+        "rare": false
+    },
+    "498": {
+        "num": 68,
+        "rare": false
+    },
+    "499": {
+        "num": 1,
+        "rare": true
+    },
+    "500": {
+        "num": 1,
+        "rare": true
+    },
+    "501": {
+        "num": 142,
+        "rare": false
+    },
+    "502": {
+        "num": 22,
+        "rare": false
+    },
+    "503": {
+        "num": 22,
+        "rare": false
+    },
+    "504": {
+        "num": 10,
+        "rare": false
+    },
+    "505": {
+        "num": 1,
+        "rare": true
+    },
+    "506": {
+        "num": 44,
+        "rare": false
+    },
+    "507": {
+        "num": 231,
+        "rare": false
+    },
+    "508": {
+        "num": 115,
+        "rare": false
+    },
+    "509": {
+        "num": 238,
+        "rare": false
+    },
+    "510": {
+        "num": 1,
+        "rare": true
+    },
+    "511": {
+        "num": 10,
+        "rare": false
+    },
+    "512": {
+        "num": 11,
+        "rare": false
+    },
+    "513": {
+        "num": 30,
+        "rare": false
+    },
+    "514": {
+        "num": 30,
+        "rare": false
+    },
+    "515": {
+        "num": 1,
+        "rare": true
+    },
+    "516": {
+        "num": 780,
+        "rare": false
+    },
+    "517": {
+        "num": 228,
+        "rare": false
+    },
+    "518": {
+        "num": 6,
+        "rare": true
+    },
+    "519": {
+        "num": 314,
+        "rare": false
+    },
+    "520": {
+        "num": 15,
+        "rare": false
+    },
+    "521": {
+        "num": 3,
+        "rare": true
+    },
+    "522": {
+        "num": 29,
+        "rare": false
+    },
+    "523": {
+        "num": 2,
+        "rare": true
+    },
+    "524": {
+        "num": 221,
+        "rare": false
+    },
+    "525": {
+        "num": 154,
+        "rare": false
+    },
+    "526": {
+        "num": 25,
+        "rare": false
+    },
+    "527": {
+        "num": 1,
+        "rare": true
+    },
+    "528": {
+        "num": 180,
+        "rare": false
+    },
+    "529": {
+        "num": 47,
+        "rare": false
+    },
+    "530": {
+        "num": 276,
+        "rare": false
+    },
+    "531": {
+        "num": 56,
+        "rare": false
+    },
+    "532": {
+        "num": 3,
+        "rare": true
+    },
+    "533": {
+        "num": 147,
+        "rare": false
+    },
+    "534": {
+        "num": 200,
+        "rare": false
+    },
+    "535": {
+        "num": 243,
+        "rare": false
+    },
+    "536": {
+        "num": 1,
+        "rare": true
+    },
+    "537": {
+        "num": 85,
+        "rare": false
+    },
+    "538": {
+        "num": 33,
+        "rare": false
+    },
+    "539": {
+        "num": 57,
+        "rare": false
+    },
+    "540": {
+        "num": 1,
+        "rare": true
+    },
+    "541": {
+        "num": 83,
+        "rare": false
+    },
+    "542": {
+        "num": 13,
+        "rare": false
+    },
+    "543": {
+        "num": 30,
+        "rare": false
+    },
+    "544": {
+        "num": 28,
+        "rare": false
+    },
+    "545": {
+        "num": 821,
+        "rare": false
+    },
+    "546": {
+        "num": 203,
+        "rare": false
+    },
+    "547": {
+        "num": 2,
+        "rare": true
+    },
+    "548": {
+        "num": 2,
+        "rare": true
+    },
+    "549": {
+        "num": 1,
+        "rare": true
+    },
+    "550": {
+        "num": 2,
+        "rare": true
+    },
+    "551": {
+        "num": 7,
+        "rare": true
+    },
+    "552": {
+        "num": 1,
+        "rare": true
+    },
+    "553": {
+        "num": 3,
+        "rare": true
+    },
+    "554": {
+        "num": 15,
+        "rare": false
+    },
+    "555": {
+        "num": 56,
+        "rare": false
+    },
+    "556": {
+        "num": 3,
+        "rare": true
+    },
+    "557": {
+        "num": 5,
+        "rare": true
+    },
+    "558": {
+        "num": 110,
+        "rare": false
+    },
+    "559": {
+        "num": 232,
+        "rare": false
+    },
+    "560": {
+        "num": 320,
+        "rare": false
+    },
+    "561": {
+        "num": 1,
+        "rare": true
+    },
+    "562": {
+        "num": 19,
+        "rare": false
+    },
+    "563": {
+        "num": 13,
+        "rare": false
+    },
+    "564": {
+        "num": 17,
+        "rare": false
+    },
+    "565": {
+        "num": 21,
+        "rare": false
+    },
+    "566": {
+        "num": 24,
+        "rare": false
+    },
+    "567": {
+        "num": 725,
+        "rare": false
+    },
+    "568": {
+        "num": 24,
+        "rare": false
+    },
+    "569": {
+        "num": 147,
+        "rare": false
+    },
+    "570": {
+        "num": 49,
+        "rare": false
+    },
+    "571": {
+        "num": 110,
+        "rare": false
+    },
+    "572": {
+        "num": 20,
+        "rare": false
+    },
+    "573": {
+        "num": 278,
+        "rare": false
+    },
+    "574": {
+        "num": 197,
+        "rare": false
+    },
+    "575": {
+        "num": 14,
+        "rare": false
+    },
+    "576": {
+        "num": 247,
+        "rare": false
+    },
+    "577": {
+        "num": 1081,
+        "rare": false
+    },
+    "578": {
+        "num": 1477,
+        "rare": false
+    },
+    "579": {
+        "num": 6,
+        "rare": true
+    },
+    "580": {
+        "num": 14,
+        "rare": false
+    },
+    "581": {
+        "num": 9,
+        "rare": true
+    },
+    "582": {
+        "num": 9,
+        "rare": true
+    },
+    "583": {
+        "num": 1271,
+        "rare": false
+    },
+    "584": {
+        "num": 529,
+        "rare": false
+    },
+    "585": {
+        "num": 15,
+        "rare": false
+    },
+    "586": {
+        "num": 17,
+        "rare": false
+    },
+    "587": {
+        "num": 1,
+        "rare": true
+    },
+    "588": {
+        "num": 182,
+        "rare": false
+    },
+    "589": {
+        "num": 28,
+        "rare": false
+    },
+    "590": {
+        "num": 411,
+        "rare": false
+    },
+    "591": {
+        "num": 47,
+        "rare": false
+    },
+    "592": {
+        "num": 76,
+        "rare": false
+    },
+    "593": {
+        "num": 1,
+        "rare": true
+    },
+    "594": {
+        "num": 1,
+        "rare": true
+    },
+    "595": {
+        "num": 424,
+        "rare": false
+    },
+    "596": {
+        "num": 8,
+        "rare": true
+    },
+    "597": {
+        "num": 2,
+        "rare": true
+    },
+    "598": {
+        "num": 4,
+        "rare": true
+    },
+    "599": {
+        "num": 76,
+        "rare": false
+    },
+    "600": {
+        "num": 2,
+        "rare": true
+    }
+}

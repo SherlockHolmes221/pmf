@@ -1,0 +1,4802 @@
+[
+    {
+        "cluster_index": 5,
+        "id": "001",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "board",
+        "verb_id": "005"
+    },
+    {
+        "cluster_index": 28,
+        "id": "002",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "direct",
+        "verb_id": "018"
+    },
+    {
+        "cluster_index": 40,
+        "id": "003",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "exit",
+        "verb_id": "026"
+    },
+    {
+        "cluster_index": 47,
+        "id": "004",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "fly",
+        "verb_id": "031"
+    },
+    {
+        "cluster_index": 70,
+        "id": "005",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 88,
+        "id": "006",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 131,
+        "id": "007",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "008",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 176,
+        "id": "009",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "010",
+        "object": "airplane",
+        "object_index": 4,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "011",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 57,
+        "id": "012",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 68,
+        "id": "013",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 75,
+        "id": "014",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 60,
+        "id": "015",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "hop_on",
+        "verb_id": "038"
+    },
+    {
+        "cluster_index": 110,
+        "id": "016",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "park",
+        "verb_id": "063"
+    },
+    {
+        "cluster_index": 123,
+        "id": "017",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "push",
+        "verb_id": "072"
+    },
+    {
+        "cluster_index": 130,
+        "id": "018",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 132,
+        "id": "019",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "020",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 161,
+        "id": "021",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "straddle",
+        "verb_id": "099"
+    },
+    {
+        "cluster_index": 173,
+        "id": "022",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 178,
+        "id": "023",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "024",
+        "object": "bicycle",
+        "object_index": 1,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 16,
+        "id": "025",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "chase",
+        "verb_id": "011"
+    },
+    {
+        "cluster_index": 43,
+        "id": "026",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 54,
+        "id": "027",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 116,
+        "id": "028",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 126,
+        "id": "029",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "release",
+        "verb_id": "075"
+    },
+    {
+        "cluster_index": 180,
+        "id": "030",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 98,
+        "id": "031",
+        "object": "bird",
+        "object_index": 14,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 5,
+        "id": "032",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "board",
+        "verb_id": "005"
+    },
+    {
+        "cluster_index": 32,
+        "id": "033",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "drive",
+        "verb_id": "022"
+    },
+    {
+        "cluster_index": 40,
+        "id": "034",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "exit",
+        "verb_id": "026"
+    },
+    {
+        "cluster_index": 70,
+        "id": "035",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 74,
+        "id": "036",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 81,
+        "id": "037",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "launch",
+        "verb_id": "048"
+    },
+    {
+        "cluster_index": 128,
+        "id": "038",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 131,
+        "id": "039",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 135,
+        "id": "040",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "row",
+        "verb_id": "078"
+    },
+    {
+        "cluster_index": 137,
+        "id": "041",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "sail",
+        "verb_id": "080"
+    },
+    {
+        "cluster_index": 145,
+        "id": "042",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 155,
+        "id": "043",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 168,
+        "id": "044",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "tie",
+        "verb_id": "106"
+    },
+    {
+        "cluster_index": 178,
+        "id": "045",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "046",
+        "object": "boat",
+        "object_index": 8,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "047",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 31,
+        "id": "048",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "drink_with",
+        "verb_id": "021"
+    },
+    {
+        "cluster_index": 56,
+        "id": "049",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "050",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 82,
+        "id": "051",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 103,
+        "id": "052",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 121,
+        "id": "053",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "pour",
+        "verb_id": "070"
+    },
+    {
+        "cluster_index": 100,
+        "id": "054",
+        "object": "bottle",
+        "object_index": 39,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 5,
+        "id": "055",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "board",
+        "verb_id": "005"
+    },
+    {
+        "cluster_index": 27,
+        "id": "056",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "direct",
+        "verb_id": "018"
+    },
+    {
+        "cluster_index": 32,
+        "id": "057",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "drive",
+        "verb_id": "022"
+    },
+    {
+        "cluster_index": 40,
+        "id": "058",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "exit",
+        "verb_id": "026"
+    },
+    {
+        "cluster_index": 70,
+        "id": "059",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 88,
+        "id": "060",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 131,
+        "id": "061",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "062",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 177,
+        "id": "063",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 182,
+        "id": "064",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "wave",
+        "verb_id": "114"
+    },
+    {
+        "cluster_index": 99,
+        "id": "065",
+        "object": "bus",
+        "object_index": 5,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 5,
+        "id": "066",
+        "object": "car",
+        "object_index": 2,
+        "verb": "board",
+        "verb_id": "005"
+    },
+    {
+        "cluster_index": 27,
+        "id": "067",
+        "object": "car",
+        "object_index": 2,
+        "verb": "direct",
+        "verb_id": "018"
+    },
+    {
+        "cluster_index": 32,
+        "id": "068",
+        "object": "car",
+        "object_index": 2,
+        "verb": "drive",
+        "verb_id": "022"
+    },
+    {
+        "cluster_index": 62,
+        "id": "069",
+        "object": "car",
+        "object_index": 2,
+        "verb": "hose",
+        "verb_id": "039"
+    },
+    {
+        "cluster_index": 70,
+        "id": "070",
+        "object": "car",
+        "object_index": 2,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 73,
+        "id": "071",
+        "object": "car",
+        "object_index": 2,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 88,
+        "id": "072",
+        "object": "car",
+        "object_index": 2,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 110,
+        "id": "073",
+        "object": "car",
+        "object_index": 2,
+        "verb": "park",
+        "verb_id": "063"
+    },
+    {
+        "cluster_index": 131,
+        "id": "074",
+        "object": "car",
+        "object_index": 2,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 178,
+        "id": "075",
+        "object": "car",
+        "object_index": 2,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "076",
+        "object": "car",
+        "object_index": 2,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 34,
+        "id": "077",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "dry",
+        "verb_id": "023"
+    },
+    {
+        "cluster_index": 42,
+        "id": "078",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 54,
+        "id": "079",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 65,
+        "id": "080",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 79,
+        "id": "081",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 115,
+        "id": "082",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 138,
+        "id": "083",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "scratch",
+        "verb_id": "081"
+    },
+    {
+        "cluster_index": 179,
+        "id": "084",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 16,
+        "id": "085",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "chase",
+        "verb_id": "011"
+    },
+    {
+        "cluster_index": 98,
+        "id": "086",
+        "object": "cat",
+        "object_index": 15,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "087",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 57,
+        "id": "088",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 85,
+        "id": "089",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "lie_on",
+        "verb_id": "050"
+    },
+    {
+        "cluster_index": 147,
+        "id": "090",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 155,
+        "id": "091",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 102,
+        "id": "092",
+        "object": "chair",
+        "object_index": 56,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "093",
+        "object": "couch",
+        "object_index": 57,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 85,
+        "id": "094",
+        "object": "couch",
+        "object_index": 57,
+        "verb": "lie_on",
+        "verb_id": "050"
+    },
+    {
+        "cluster_index": 147,
+        "id": "095",
+        "object": "couch",
+        "object_index": 57,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 100,
+        "id": "096",
+        "object": "couch",
+        "object_index": 57,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 41,
+        "id": "097",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 51,
+        "id": "098",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "herd",
+        "verb_id": "035"
+    },
+    {
+        "cluster_index": 59,
+        "id": "099",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 64,
+        "id": "100",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 77,
+        "id": "101",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 80,
+        "id": "102",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "lasso",
+        "verb_id": "047"
+    },
+    {
+        "cluster_index": 93,
+        "id": "103",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "milk",
+        "verb_id": "056"
+    },
+    {
+        "cluster_index": 114,
+        "id": "104",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 133,
+        "id": "105",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 174,
+        "id": "106",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 98,
+        "id": "107",
+        "object": "cow",
+        "object_index": 19,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "108",
+        "object": "dining_table",
+        "object_index": 60,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 38,
+        "id": "109",
+        "object": "dining_table",
+        "object_index": 60,
+        "verb": "eat_at",
+        "verb_id": "025"
+    },
+    {
+        "cluster_index": 144,
+        "id": "110",
+        "object": "dining_table",
+        "object_index": 60,
+        "verb": "sit_at",
+        "verb_id": "087"
+    },
+    {
+        "cluster_index": 97,
+        "id": "111",
+        "object": "dining_table",
+        "object_index": 60,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 13,
+        "id": "112",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 34,
+        "id": "113",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "dry",
+        "verb_id": "023"
+    },
+    {
+        "cluster_index": 42,
+        "id": "114",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 50,
+        "id": "115",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "groom",
+        "verb_id": "034"
+    },
+    {
+        "cluster_index": 55,
+        "id": "116",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 62,
+        "id": "117",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "hose",
+        "verb_id": "039"
+    },
+    {
+        "cluster_index": 65,
+        "id": "118",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 70,
+        "id": "119",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 78,
+        "id": "120",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 115,
+        "id": "121",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 136,
+        "id": "122",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "run",
+        "verb_id": "079"
+    },
+    {
+        "cluster_index": 138,
+        "id": "123",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "scratch",
+        "verb_id": "081"
+    },
+    {
+        "cluster_index": 160,
+        "id": "124",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "straddle",
+        "verb_id": "099"
+    },
+    {
+        "cluster_index": 170,
+        "id": "125",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "train",
+        "verb_id": "108"
+    },
+    {
+        "cluster_index": 173,
+        "id": "126",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 175,
+        "id": "127",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 16,
+        "id": "128",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "chase",
+        "verb_id": "011"
+    },
+    {
+        "cluster_index": 98,
+        "id": "129",
+        "object": "dog",
+        "object_index": 16,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 42,
+        "id": "130",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 50,
+        "id": "131",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "groom",
+        "verb_id": "034"
+    },
+    {
+        "cluster_index": 55,
+        "id": "132",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 64,
+        "id": "133",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 75,
+        "id": "134",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 77,
+        "id": "135",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 88,
+        "id": "136",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 61,
+        "id": "137",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "hop_on",
+        "verb_id": "038"
+    },
+    {
+        "cluster_index": 114,
+        "id": "138",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 124,
+        "id": "139",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "race",
+        "verb_id": "073"
+    },
+    {
+        "cluster_index": 133,
+        "id": "140",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 136,
+        "id": "141",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "run",
+        "verb_id": "079"
+    },
+    {
+        "cluster_index": 160,
+        "id": "142",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "straddle",
+        "verb_id": "099"
+    },
+    {
+        "cluster_index": 170,
+        "id": "143",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "train",
+        "verb_id": "108"
+    },
+    {
+        "cluster_index": 174,
+        "id": "144",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 175,
+        "id": "145",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 98,
+        "id": "146",
+        "object": "horse",
+        "object_index": 17,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 55,
+        "id": "147",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 68,
+        "id": "148",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 73,
+        "id": "149",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 60,
+        "id": "150",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "hop_on",
+        "verb_id": "038"
+    },
+    {
+        "cluster_index": 110,
+        "id": "151",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "park",
+        "verb_id": "063"
+    },
+    {
+        "cluster_index": 123,
+        "id": "152",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "push",
+        "verb_id": "072"
+    },
+    {
+        "cluster_index": 124,
+        "id": "153",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "race",
+        "verb_id": "073"
+    },
+    {
+        "cluster_index": 132,
+        "id": "154",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "155",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 161,
+        "id": "156",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "straddle",
+        "verb_id": "099"
+    },
+    {
+        "cluster_index": 171,
+        "id": "157",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "turn",
+        "verb_id": "109"
+    },
+    {
+        "cluster_index": 174,
+        "id": "158",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 178,
+        "id": "159",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "160",
+        "object": "motorcycle",
+        "object_index": 3,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 13,
+        "id": "161",
+        "object": "person",
+        "object_index": 0,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 48,
+        "id": "162",
+        "object": "person",
+        "object_index": 0,
+        "verb": "greet",
+        "verb_id": "032"
+    },
+    {
+        "cluster_index": 55,
+        "id": "163",
+        "object": "person",
+        "object_index": 0,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 66,
+        "id": "164",
+        "object": "person",
+        "object_index": 0,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 77,
+        "id": "165",
+        "object": "person",
+        "object_index": 0,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 153,
+        "id": "166",
+        "object": "person",
+        "object_index": 0,
+        "verb": "stab",
+        "verb_id": "093"
+    },
+    {
+        "cluster_index": 163,
+        "id": "167",
+        "object": "person",
+        "object_index": 0,
+        "verb": "tag",
+        "verb_id": "101"
+    },
+    {
+        "cluster_index": 165,
+        "id": "168",
+        "object": "person",
+        "object_index": 0,
+        "verb": "teach",
+        "verb_id": "103"
+    },
+    {
+        "cluster_index": 82,
+        "id": "169",
+        "object": "person",
+        "object_index": 0,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 98,
+        "id": "170",
+        "object": "person",
+        "object_index": 0,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "171",
+        "object": "potted_plant",
+        "object_index": 58,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 56,
+        "id": "172",
+        "object": "potted_plant",
+        "object_index": 58,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 63,
+        "id": "173",
+        "object": "potted_plant",
+        "object_index": 58,
+        "verb": "hose",
+        "verb_id": "039"
+    },
+    {
+        "cluster_index": 100,
+        "id": "174",
+        "object": "potted_plant",
+        "object_index": 58,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "175",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 41,
+        "id": "176",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 51,
+        "id": "177",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "herd",
+        "verb_id": "035"
+    },
+    {
+        "cluster_index": 59,
+        "id": "178",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 64,
+        "id": "179",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 77,
+        "id": "180",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 114,
+        "id": "181",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 133,
+        "id": "182",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 141,
+        "id": "183",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "shear",
+        "verb_id": "084"
+    },
+    {
+        "cluster_index": 174,
+        "id": "184",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 175,
+        "id": "185",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 98,
+        "id": "186",
+        "object": "sheep",
+        "object_index": 18,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 4,
+        "id": "187",
+        "object": "train",
+        "object_index": 6,
+        "verb": "board",
+        "verb_id": "005"
+    },
+    {
+        "cluster_index": 33,
+        "id": "188",
+        "object": "train",
+        "object_index": 6,
+        "verb": "drive",
+        "verb_id": "022"
+    },
+    {
+        "cluster_index": 39,
+        "id": "189",
+        "object": "train",
+        "object_index": 6,
+        "verb": "exit",
+        "verb_id": "026"
+    },
+    {
+        "cluster_index": 88,
+        "id": "190",
+        "object": "train",
+        "object_index": 6,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 131,
+        "id": "191",
+        "object": "train",
+        "object_index": 6,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "192",
+        "object": "train",
+        "object_index": 6,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 177,
+        "id": "193",
+        "object": "train",
+        "object_index": 6,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "194",
+        "object": "train",
+        "object_index": 6,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 20,
+        "id": "195",
+        "object": "tv",
+        "object_index": 62,
+        "verb": "control",
+        "verb_id": "014"
+    },
+    {
+        "cluster_index": 129,
+        "id": "196",
+        "object": "tv",
+        "object_index": 62,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 181,
+        "id": "197",
+        "object": "tv",
+        "object_index": 62,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 100,
+        "id": "198",
+        "object": "tv",
+        "object_index": 62,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 9,
+        "id": "199",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "buy",
+        "verb_id": "008"
+    },
+    {
+        "cluster_index": 23,
+        "id": "200",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 37,
+        "id": "201",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 54,
+        "id": "202",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "203",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 112,
+        "id": "204",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "peel",
+        "verb_id": "065"
+    },
+    {
+        "cluster_index": 117,
+        "id": "205",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "pick",
+        "verb_id": "067"
+    },
+    {
+        "cluster_index": 149,
+        "id": "206",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 179,
+        "id": "207",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 96,
+        "id": "208",
+        "object": "apple",
+        "object_index": 47,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "209",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 56,
+        "id": "210",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "211",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 104,
+        "id": "212",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 183,
+        "id": "213",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "wear",
+        "verb_id": "115"
+    },
+    {
+        "cluster_index": 100,
+        "id": "214",
+        "object": "backpack",
+        "object_index": 24,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 8,
+        "id": "215",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "buy",
+        "verb_id": "008"
+    },
+    {
+        "cluster_index": 12,
+        "id": "216",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 23,
+        "id": "217",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 37,
+        "id": "218",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 54,
+        "id": "219",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "220",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 112,
+        "id": "221",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "peel",
+        "verb_id": "065"
+    },
+    {
+        "cluster_index": 117,
+        "id": "222",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "pick",
+        "verb_id": "067"
+    },
+    {
+        "cluster_index": 150,
+        "id": "223",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 96,
+        "id": "224",
+        "object": "banana",
+        "object_index": 46,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 6,
+        "id": "225",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "break",
+        "verb_id": "006"
+    },
+    {
+        "cluster_index": 12,
+        "id": "226",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 53,
+        "id": "227",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 142,
+        "id": "228",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "sign",
+        "verb_id": "085"
+    },
+    {
+        "cluster_index": 162,
+        "id": "229",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "swing",
+        "verb_id": "100"
+    },
+    {
+        "cluster_index": 167,
+        "id": "230",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "throw",
+        "verb_id": "105"
+    },
+    {
+        "cluster_index": 185,
+        "id": "231",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "wield",
+        "verb_id": "116"
+    },
+    {
+        "cluster_index": 97,
+        "id": "232",
+        "object": "baseball_bat",
+        "object_index": 34,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 53,
+        "id": "233",
+        "object": "baseball_glove",
+        "object_index": 35,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 183,
+        "id": "234",
+        "object": "baseball_glove",
+        "object_index": 35,
+        "verb": "wear",
+        "verb_id": "115"
+    },
+    {
+        "cluster_index": 97,
+        "id": "235",
+        "object": "baseball_glove",
+        "object_index": 35,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 42,
+        "id": "236",
+        "object": "bear",
+        "object_index": 21,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 67,
+        "id": "237",
+        "object": "bear",
+        "object_index": 21,
+        "verb": "hunt",
+        "verb_id": "041"
+    },
+    {
+        "cluster_index": 180,
+        "id": "238",
+        "object": "bear",
+        "object_index": 21,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 98,
+        "id": "239",
+        "object": "bear",
+        "object_index": 21,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "240",
+        "object": "bed",
+        "object_index": 59,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 85,
+        "id": "241",
+        "object": "bed",
+        "object_index": 59,
+        "verb": "lie_on",
+        "verb_id": "050"
+    },
+    {
+        "cluster_index": 146,
+        "id": "242",
+        "object": "bed",
+        "object_index": 59,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 101,
+        "id": "243",
+        "object": "bed",
+        "object_index": 59,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 69,
+        "id": "244",
+        "object": "bench",
+        "object_index": 13,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 84,
+        "id": "245",
+        "object": "bench",
+        "object_index": 13,
+        "verb": "lie_on",
+        "verb_id": "050"
+    },
+    {
+        "cluster_index": 146,
+        "id": "246",
+        "object": "bench",
+        "object_index": 13,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 95,
+        "id": "247",
+        "object": "bench",
+        "object_index": 13,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 13,
+        "id": "248",
+        "object": "book",
+        "object_index": 73,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 53,
+        "id": "249",
+        "object": "book",
+        "object_index": 73,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 104,
+        "id": "250",
+        "object": "book",
+        "object_index": 73,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 125,
+        "id": "251",
+        "object": "book",
+        "object_index": 73,
+        "verb": "read",
+        "verb_id": "074"
+    },
+    {
+        "cluster_index": 96,
+        "id": "252",
+        "object": "book",
+        "object_index": 73,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "253",
+        "object": "bowl",
+        "object_index": 45,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 158,
+        "id": "254",
+        "object": "bowl",
+        "object_index": 45,
+        "verb": "stir",
+        "verb_id": "097"
+    },
+    {
+        "cluster_index": 179,
+        "id": "255",
+        "object": "bowl",
+        "object_index": 45,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 83,
+        "id": "256",
+        "object": "bowl",
+        "object_index": 45,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 96,
+        "id": "257",
+        "object": "bowl",
+        "object_index": 45,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 23,
+        "id": "258",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 37,
+        "id": "259",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 54,
+        "id": "260",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 150,
+        "id": "261",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 158,
+        "id": "262",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "stir",
+        "verb_id": "097"
+    },
+    {
+        "cluster_index": 175,
+        "id": "263",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 96,
+        "id": "264",
+        "object": "broccoli",
+        "object_index": 50,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 3,
+        "id": "265",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "blow",
+        "verb_id": "004"
+    },
+    {
+        "cluster_index": 12,
+        "id": "266",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 24,
+        "id": "267",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 36,
+        "id": "268",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 56,
+        "id": "269",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 87,
+        "id": "270",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "light",
+        "verb_id": "052"
+    },
+    {
+        "cluster_index": 91,
+        "id": "271",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 119,
+        "id": "272",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 96,
+        "id": "273",
+        "object": "cake",
+        "object_index": 55,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "274",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 22,
+        "id": "275",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "cook",
+        "verb_id": "015"
+    },
+    {
+        "cluster_index": 23,
+        "id": "276",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 37,
+        "id": "277",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 54,
+        "id": "278",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 112,
+        "id": "279",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "peel",
+        "verb_id": "065"
+    },
+    {
+        "cluster_index": 150,
+        "id": "280",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 158,
+        "id": "281",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "stir",
+        "verb_id": "097"
+    },
+    {
+        "cluster_index": 175,
+        "id": "282",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 96,
+        "id": "283",
+        "object": "carrot",
+        "object_index": 51,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 11,
+        "id": "284",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 57,
+        "id": "285",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 125,
+        "id": "286",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "read",
+        "verb_id": "074"
+    },
+    {
+        "cluster_index": 129,
+        "id": "287",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 164,
+        "id": "288",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "talk_on",
+        "verb_id": "102"
+    },
+    {
+        "cluster_index": 166,
+        "id": "289",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "text_on",
+        "verb_id": "104"
+    },
+    {
+        "cluster_index": 102,
+        "id": "290",
+        "object": "cell_phone",
+        "object_index": 67,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 17,
+        "id": "291",
+        "object": "clock",
+        "object_index": 74,
+        "verb": "check",
+        "verb_id": "012"
+    },
+    {
+        "cluster_index": 56,
+        "id": "292",
+        "object": "clock",
+        "object_index": 74,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 127,
+        "id": "293",
+        "object": "clock",
+        "object_index": 74,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 140,
+        "id": "294",
+        "object": "clock",
+        "object_index": 74,
+        "verb": "set",
+        "verb_id": "083"
+    },
+    {
+        "cluster_index": 100,
+        "id": "295",
+        "object": "clock",
+        "object_index": 74,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "296",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 31,
+        "id": "297",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "drink_with",
+        "verb_id": "021"
+    },
+    {
+        "cluster_index": 56,
+        "id": "298",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "299",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 121,
+        "id": "300",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "pour",
+        "verb_id": "070"
+    },
+    {
+        "cluster_index": 143,
+        "id": "301",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "sip",
+        "verb_id": "086"
+    },
+    {
+        "cluster_index": 149,
+        "id": "302",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 44,
+        "id": "303",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "fill",
+        "verb_id": "028"
+    },
+    {
+        "cluster_index": 176,
+        "id": "304",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 96,
+        "id": "305",
+        "object": "cup",
+        "object_index": 41,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 9,
+        "id": "306",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "buy",
+        "verb_id": "008"
+    },
+    {
+        "cluster_index": 12,
+        "id": "307",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 36,
+        "id": "308",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 56,
+        "id": "309",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 92,
+        "id": "310",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 119,
+        "id": "311",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 149,
+        "id": "312",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 96,
+        "id": "313",
+        "object": "donut",
+        "object_index": 54,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 43,
+        "id": "314",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 54,
+        "id": "315",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 62,
+        "id": "316",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "hose",
+        "verb_id": "039"
+    },
+    {
+        "cluster_index": 64,
+        "id": "317",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 79,
+        "id": "318",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 61,
+        "id": "319",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "hop_on",
+        "verb_id": "038"
+    },
+    {
+        "cluster_index": 114,
+        "id": "320",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 133,
+        "id": "321",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 173,
+        "id": "322",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "walk",
+        "verb_id": "111"
+    },
+    {
+        "cluster_index": 179,
+        "id": "323",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 180,
+        "id": "324",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 98,
+        "id": "325",
+        "object": "elephant",
+        "object_index": 20,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 65,
+        "id": "326",
+        "object": "fire_hydrant",
+        "object_index": 10,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 70,
+        "id": "327",
+        "object": "fire_hydrant",
+        "object_index": 10,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 103,
+        "id": "328",
+        "object": "fire_hydrant",
+        "object_index": 10,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 109,
+        "id": "329",
+        "object": "fire_hydrant",
+        "object_index": 10,
+        "verb": "paint",
+        "verb_id": "062"
+    },
+    {
+        "cluster_index": 99,
+        "id": "330",
+        "object": "fire_hydrant",
+        "object_index": 10,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "331",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 86,
+        "id": "332",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "lift",
+        "verb_id": "051"
+    },
+    {
+        "cluster_index": 157,
+        "id": "333",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "stick",
+        "verb_id": "096"
+    },
+    {
+        "cluster_index": 83,
+        "id": "334",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 178,
+        "id": "335",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 101,
+        "id": "336",
+        "object": "fork",
+        "object_index": 42,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 2,
+        "id": "337",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "block",
+        "verb_id": "003"
+    },
+    {
+        "cluster_index": 15,
+        "id": "338",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "catch",
+        "verb_id": "010"
+    },
+    {
+        "cluster_index": 57,
+        "id": "339",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 151,
+        "id": "340",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "spin",
+        "verb_id": "091"
+    },
+    {
+        "cluster_index": 167,
+        "id": "341",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "throw",
+        "verb_id": "105"
+    },
+    {
+        "cluster_index": 102,
+        "id": "342",
+        "object": "frisbee",
+        "object_index": 29,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 43,
+        "id": "343",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 79,
+        "id": "344",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 116,
+        "id": "345",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 133,
+        "id": "346",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 180,
+        "id": "347",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 98,
+        "id": "348",
+        "object": "giraffe",
+        "object_index": 23,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 57,
+        "id": "349",
+        "object": "hair_drier",
+        "object_index": 78,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 106,
+        "id": "350",
+        "object": "hair_drier",
+        "object_index": 78,
+        "verb": "operate",
+        "verb_id": "060"
+    },
+    {
+        "cluster_index": 127,
+        "id": "351",
+        "object": "hair_drier",
+        "object_index": 78,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 101,
+        "id": "352",
+        "object": "hair_drier",
+        "object_index": 78,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "353",
+        "object": "handbag",
+        "object_index": 26,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 56,
+        "id": "354",
+        "object": "handbag",
+        "object_index": 26,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "355",
+        "object": "handbag",
+        "object_index": 26,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 100,
+        "id": "356",
+        "object": "handbag",
+        "object_index": 26,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "357",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 21,
+        "id": "358",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "cook",
+        "verb_id": "015"
+    },
+    {
+        "cluster_index": 25,
+        "id": "359",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 35,
+        "id": "360",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 53,
+        "id": "361",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 92,
+        "id": "362",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 97,
+        "id": "363",
+        "object": "hot_dog",
+        "object_index": 52,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 11,
+        "id": "364",
+        "object": "keyboard",
+        "object_index": 66,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 18,
+        "id": "365",
+        "object": "keyboard",
+        "object_index": 66,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 56,
+        "id": "366",
+        "object": "keyboard",
+        "object_index": 66,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 172,
+        "id": "367",
+        "object": "keyboard",
+        "object_index": 66,
+        "verb": "type_on",
+        "verb_id": "110"
+    },
+    {
+        "cluster_index": 102,
+        "id": "368",
+        "object": "keyboard",
+        "object_index": 66,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 1,
+        "id": "369",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "assemble",
+        "verb_id": "002"
+    },
+    {
+        "cluster_index": 10,
+        "id": "370",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 47,
+        "id": "371",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "fly",
+        "verb_id": "031"
+    },
+    {
+        "cluster_index": 57,
+        "id": "372",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 68,
+        "id": "373",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 81,
+        "id": "374",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "launch",
+        "verb_id": "048"
+    },
+    {
+        "cluster_index": 122,
+        "id": "375",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "pull",
+        "verb_id": "071"
+    },
+    {
+        "cluster_index": 102,
+        "id": "376",
+        "object": "kite",
+        "object_index": 33,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 26,
+        "id": "377",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "cut_with",
+        "verb_id": "017"
+    },
+    {
+        "cluster_index": 56,
+        "id": "378",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 157,
+        "id": "379",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "stick",
+        "verb_id": "096"
+    },
+    {
+        "cluster_index": 178,
+        "id": "380",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 185,
+        "id": "381",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "wield",
+        "verb_id": "116"
+    },
+    {
+        "cluster_index": 82,
+        "id": "382",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 100,
+        "id": "383",
+        "object": "knife",
+        "object_index": 43,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "384",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 104,
+        "id": "385",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 125,
+        "id": "386",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "read",
+        "verb_id": "074"
+    },
+    {
+        "cluster_index": 129,
+        "id": "387",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 172,
+        "id": "388",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "type_on",
+        "verb_id": "110"
+    },
+    {
+        "cluster_index": 102,
+        "id": "389",
+        "object": "laptop",
+        "object_index": 63,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "390",
+        "object": "microwave",
+        "object_index": 68,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 105,
+        "id": "391",
+        "object": "microwave",
+        "object_index": 68,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 107,
+        "id": "392",
+        "object": "microwave",
+        "object_index": 68,
+        "verb": "operate",
+        "verb_id": "060"
+    },
+    {
+        "cluster_index": 101,
+        "id": "393",
+        "object": "microwave",
+        "object_index": 68,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 20,
+        "id": "394",
+        "object": "mouse",
+        "object_index": 64,
+        "verb": "control",
+        "verb_id": "014"
+    },
+    {
+        "cluster_index": 54,
+        "id": "395",
+        "object": "mouse",
+        "object_index": 64,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 129,
+        "id": "396",
+        "object": "mouse",
+        "object_index": 64,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 102,
+        "id": "397",
+        "object": "mouse",
+        "object_index": 64,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 8,
+        "id": "398",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "buy",
+        "verb_id": "008"
+    },
+    {
+        "cluster_index": 23,
+        "id": "399",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 35,
+        "id": "400",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 54,
+        "id": "401",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 69,
+        "id": "402",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 113,
+        "id": "403",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "peel",
+        "verb_id": "065"
+    },
+    {
+        "cluster_index": 117,
+        "id": "404",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "pick",
+        "verb_id": "067"
+    },
+    {
+        "cluster_index": 152,
+        "id": "405",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "squeeze",
+        "verb_id": "092"
+    },
+    {
+        "cluster_index": 176,
+        "id": "406",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 96,
+        "id": "407",
+        "object": "orange",
+        "object_index": 49,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "408",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 56,
+        "id": "409",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 70,
+        "id": "410",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 105,
+        "id": "411",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 127,
+        "id": "412",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 106,
+        "id": "413",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "operate",
+        "verb_id": "060"
+    },
+    {
+        "cluster_index": 101,
+        "id": "414",
+        "object": "oven",
+        "object_index": 69,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 17,
+        "id": "415",
+        "object": "parking_meter",
+        "object_index": 12,
+        "verb": "check",
+        "verb_id": "012"
+    },
+    {
+        "cluster_index": 111,
+        "id": "416",
+        "object": "parking_meter",
+        "object_index": 12,
+        "verb": "pay",
+        "verb_id": "064"
+    },
+    {
+        "cluster_index": 129,
+        "id": "417",
+        "object": "parking_meter",
+        "object_index": 12,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 97,
+        "id": "418",
+        "object": "parking_meter",
+        "object_index": 12,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 9,
+        "id": "419",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "buy",
+        "verb_id": "008"
+    },
+    {
+        "cluster_index": 12,
+        "id": "420",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 21,
+        "id": "421",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "cook",
+        "verb_id": "015"
+    },
+    {
+        "cluster_index": 24,
+        "id": "422",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 36,
+        "id": "423",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 56,
+        "id": "424",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 92,
+        "id": "425",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 119,
+        "id": "426",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 148,
+        "id": "427",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "slide",
+        "verb_id": "089"
+    },
+    {
+        "cluster_index": 149,
+        "id": "428",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "smell",
+        "verb_id": "090"
+    },
+    {
+        "cluster_index": 96,
+        "id": "429",
+        "object": "pizza",
+        "object_index": 53,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "430",
+        "object": "refrigerator",
+        "object_index": 72,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 56,
+        "id": "431",
+        "object": "refrigerator",
+        "object_index": 72,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 94,
+        "id": "432",
+        "object": "refrigerator",
+        "object_index": 72,
+        "verb": "move",
+        "verb_id": "057"
+    },
+    {
+        "cluster_index": 105,
+        "id": "433",
+        "object": "refrigerator",
+        "object_index": 72,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 101,
+        "id": "434",
+        "object": "refrigerator",
+        "object_index": 72,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 59,
+        "id": "435",
+        "object": "remote",
+        "object_index": 65,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 120,
+        "id": "436",
+        "object": "remote",
+        "object_index": 65,
+        "verb": "point",
+        "verb_id": "069"
+    },
+    {
+        "cluster_index": 162,
+        "id": "437",
+        "object": "remote",
+        "object_index": 65,
+        "verb": "swing",
+        "verb_id": "100"
+    },
+    {
+        "cluster_index": 102,
+        "id": "438",
+        "object": "remote",
+        "object_index": 65,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "439",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 21,
+        "id": "440",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "cook",
+        "verb_id": "015"
+    },
+    {
+        "cluster_index": 24,
+        "id": "441",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 36,
+        "id": "442",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "eat",
+        "verb_id": "024"
+    },
+    {
+        "cluster_index": 56,
+        "id": "443",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 92,
+        "id": "444",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 96,
+        "id": "445",
+        "object": "sandwich",
+        "object_index": 48,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 26,
+        "id": "446",
+        "object": "scissors",
+        "object_index": 76,
+        "verb": "cut_with",
+        "verb_id": "017"
+    },
+    {
+        "cluster_index": 57,
+        "id": "447",
+        "object": "scissors",
+        "object_index": 76,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 104,
+        "id": "448",
+        "object": "scissors",
+        "object_index": 76,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 100,
+        "id": "449",
+        "object": "scissors",
+        "object_index": 76,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 19,
+        "id": "450",
+        "object": "sink",
+        "object_index": 71,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 128,
+        "id": "451",
+        "object": "sink",
+        "object_index": 71,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 176,
+        "id": "452",
+        "object": "sink",
+        "object_index": 71,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 101,
+        "id": "453",
+        "object": "sink",
+        "object_index": 71,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "454",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 45,
+        "id": "455",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "flip",
+        "verb_id": "029"
+    },
+    {
+        "cluster_index": 49,
+        "id": "456",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "grind",
+        "verb_id": "033"
+    },
+    {
+        "cluster_index": 57,
+        "id": "457",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 75,
+        "id": "458",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 118,
+        "id": "459",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 134,
+        "id": "460",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "461",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 154,
+        "id": "462",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 102,
+        "id": "463",
+        "object": "skateboard",
+        "object_index": 36,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 0,
+        "id": "464",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "adjust",
+        "verb_id": "001"
+    },
+    {
+        "cluster_index": 10,
+        "id": "465",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 57,
+        "id": "466",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 70,
+        "id": "467",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 75,
+        "id": "468",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 118,
+        "id": "469",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 130,
+        "id": "470",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 134,
+        "id": "471",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 154,
+        "id": "472",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 183,
+        "id": "473",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "wear",
+        "verb_id": "115"
+    },
+    {
+        "cluster_index": 102,
+        "id": "474",
+        "object": "skis",
+        "object_index": 30,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 0,
+        "id": "475",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "adjust",
+        "verb_id": "001"
+    },
+    {
+        "cluster_index": 10,
+        "id": "476",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 49,
+        "id": "477",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "grind",
+        "verb_id": "033"
+    },
+    {
+        "cluster_index": 57,
+        "id": "478",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 75,
+        "id": "479",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 134,
+        "id": "480",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 154,
+        "id": "481",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 183,
+        "id": "482",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "wear",
+        "verb_id": "115"
+    },
+    {
+        "cluster_index": 102,
+        "id": "483",
+        "object": "snowboard",
+        "object_index": 31,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "484",
+        "object": "spoon",
+        "object_index": 44,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 82,
+        "id": "485",
+        "object": "spoon",
+        "object_index": 44,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 175,
+        "id": "486",
+        "object": "spoon",
+        "object_index": 44,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 143,
+        "id": "487",
+        "object": "spoon",
+        "object_index": 44,
+        "verb": "sip",
+        "verb_id": "086"
+    },
+    {
+        "cluster_index": 101,
+        "id": "488",
+        "object": "spoon",
+        "object_index": 44,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 2,
+        "id": "489",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "block",
+        "verb_id": "003"
+    },
+    {
+        "cluster_index": 10,
+        "id": "490",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 15,
+        "id": "491",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "catch",
+        "verb_id": "010"
+    },
+    {
+        "cluster_index": 30,
+        "id": "492",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "dribble",
+        "verb_id": "020"
+    },
+    {
+        "cluster_index": 52,
+        "id": "493",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "hit",
+        "verb_id": "036"
+    },
+    {
+        "cluster_index": 57,
+        "id": "494",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 69,
+        "id": "495",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 76,
+        "id": "496",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "kick",
+        "verb_id": "045"
+    },
+    {
+        "cluster_index": 118,
+        "id": "497",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 139,
+        "id": "498",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "serve",
+        "verb_id": "082"
+    },
+    {
+        "cluster_index": 142,
+        "id": "499",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "sign",
+        "verb_id": "085"
+    },
+    {
+        "cluster_index": 151,
+        "id": "500",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "spin",
+        "verb_id": "091"
+    },
+    {
+        "cluster_index": 167,
+        "id": "501",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "throw",
+        "verb_id": "105"
+    },
+    {
+        "cluster_index": 95,
+        "id": "502",
+        "object": "sports_ball",
+        "object_index": 32,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 53,
+        "id": "503",
+        "object": "stop_sign",
+        "object_index": 11,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 156,
+        "id": "504",
+        "object": "stop_sign",
+        "object_index": 11,
+        "verb": "stand_under",
+        "verb_id": "095"
+    },
+    {
+        "cluster_index": 159,
+        "id": "505",
+        "object": "stop_sign",
+        "object_index": 11,
+        "verb": "stop_at",
+        "verb_id": "098"
+    },
+    {
+        "cluster_index": 99,
+        "id": "506",
+        "object": "stop_sign",
+        "object_index": 11,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "507",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 29,
+        "id": "508",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "drag",
+        "verb_id": "019"
+    },
+    {
+        "cluster_index": 56,
+        "id": "509",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 65,
+        "id": "510",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 88,
+        "id": "511",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 104,
+        "id": "512",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 108,
+        "id": "513",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "pack",
+        "verb_id": "061"
+    },
+    {
+        "cluster_index": 119,
+        "id": "514",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "pick_up",
+        "verb_id": "068"
+    },
+    {
+        "cluster_index": 186,
+        "id": "515",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "zip",
+        "verb_id": "117"
+    },
+    {
+        "cluster_index": 100,
+        "id": "516",
+        "object": "suitcase",
+        "object_index": 28,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "517",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 29,
+        "id": "518",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "drag",
+        "verb_id": "019"
+    },
+    {
+        "cluster_index": 57,
+        "id": "519",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 68,
+        "id": "520",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 74,
+        "id": "521",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "jump",
+        "verb_id": "044"
+    },
+    {
+        "cluster_index": 85,
+        "id": "522",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "lie_on",
+        "verb_id": "050"
+    },
+    {
+        "cluster_index": 89,
+        "id": "523",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 134,
+        "id": "524",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 154,
+        "id": "525",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 145,
+        "id": "526",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 176,
+        "id": "527",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 102,
+        "id": "528",
+        "object": "surfboard",
+        "object_index": 37,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 14,
+        "id": "529",
+        "object": "teddy_bear",
+        "object_index": 77,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 56,
+        "id": "530",
+        "object": "teddy_bear",
+        "object_index": 77,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 65,
+        "id": "531",
+        "object": "teddy_bear",
+        "object_index": 77,
+        "verb": "hug",
+        "verb_id": "040"
+    },
+    {
+        "cluster_index": 78,
+        "id": "532",
+        "object": "teddy_bear",
+        "object_index": 77,
+        "verb": "kiss",
+        "verb_id": "046"
+    },
+    {
+        "cluster_index": 96,
+        "id": "533",
+        "object": "teddy_bear",
+        "object_index": 77,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 10,
+        "id": "534",
+        "object": "tennis_racket",
+        "object_index": 38,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 57,
+        "id": "535",
+        "object": "tennis_racket",
+        "object_index": 38,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 71,
+        "id": "536",
+        "object": "tennis_racket",
+        "object_index": 38,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 162,
+        "id": "537",
+        "object": "tennis_racket",
+        "object_index": 38,
+        "verb": "swing",
+        "verb_id": "100"
+    },
+    {
+        "cluster_index": 102,
+        "id": "538",
+        "object": "tennis_racket",
+        "object_index": 38,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 0,
+        "id": "539",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "adjust",
+        "verb_id": "001"
+    },
+    {
+        "cluster_index": 25,
+        "id": "540",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "cut",
+        "verb_id": "016"
+    },
+    {
+        "cluster_index": 58,
+        "id": "541",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 69,
+        "id": "542",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 122,
+        "id": "543",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "pull",
+        "verb_id": "071"
+    },
+    {
+        "cluster_index": 168,
+        "id": "544",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "tie",
+        "verb_id": "106"
+    },
+    {
+        "cluster_index": 184,
+        "id": "545",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "wear",
+        "verb_id": "115"
+    },
+    {
+        "cluster_index": 95,
+        "id": "546",
+        "object": "tie",
+        "object_index": 27,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "547",
+        "object": "toaster",
+        "object_index": 70,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 106,
+        "id": "548",
+        "object": "toaster",
+        "object_index": 70,
+        "verb": "operate",
+        "verb_id": "060"
+    },
+    {
+        "cluster_index": 127,
+        "id": "549",
+        "object": "toaster",
+        "object_index": 70,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 100,
+        "id": "550",
+        "object": "toaster",
+        "object_index": 70,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 18,
+        "id": "551",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "clean",
+        "verb_id": "013"
+    },
+    {
+        "cluster_index": 46,
+        "id": "552",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "flush",
+        "verb_id": "030"
+    },
+    {
+        "cluster_index": 103,
+        "id": "553",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 127,
+        "id": "554",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 146,
+        "id": "555",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 155,
+        "id": "556",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "stand_on",
+        "verb_id": "094"
+    },
+    {
+        "cluster_index": 176,
+        "id": "557",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 100,
+        "id": "558",
+        "object": "toilet",
+        "object_index": 61,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 7,
+        "id": "559",
+        "object": "toothbrush",
+        "object_index": 79,
+        "verb": "brush_with",
+        "verb_id": "007"
+    },
+    {
+        "cluster_index": 56,
+        "id": "560",
+        "object": "toothbrush",
+        "object_index": 79,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 176,
+        "id": "561",
+        "object": "toothbrush",
+        "object_index": 79,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 100,
+        "id": "562",
+        "object": "toothbrush",
+        "object_index": 79,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 72,
+        "id": "563",
+        "object": "traffic_light",
+        "object_index": 9,
+        "verb": "install",
+        "verb_id": "043"
+    },
+    {
+        "cluster_index": 127,
+        "id": "564",
+        "object": "traffic_light",
+        "object_index": 9,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 156,
+        "id": "565",
+        "object": "traffic_light",
+        "object_index": 9,
+        "verb": "stand_under",
+        "verb_id": "095"
+    },
+    {
+        "cluster_index": 159,
+        "id": "566",
+        "object": "traffic_light",
+        "object_index": 9,
+        "verb": "stop_at",
+        "verb_id": "098"
+    },
+    {
+        "cluster_index": 97,
+        "id": "567",
+        "object": "traffic_light",
+        "object_index": 9,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 27,
+        "id": "568",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "direct",
+        "verb_id": "018"
+    },
+    {
+        "cluster_index": 32,
+        "id": "569",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "drive",
+        "verb_id": "022"
+    },
+    {
+        "cluster_index": 70,
+        "id": "570",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "inspect",
+        "verb_id": "042"
+    },
+    {
+        "cluster_index": 88,
+        "id": "571",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "load",
+        "verb_id": "053"
+    },
+    {
+        "cluster_index": 128,
+        "id": "572",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 131,
+        "id": "573",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "ride",
+        "verb_id": "077"
+    },
+    {
+        "cluster_index": 145,
+        "id": "574",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "sit_on",
+        "verb_id": "088"
+    },
+    {
+        "cluster_index": 178,
+        "id": "575",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 99,
+        "id": "576",
+        "object": "truck",
+        "object_index": 7,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 12,
+        "id": "577",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "carry",
+        "verb_id": "009"
+    },
+    {
+        "cluster_index": 56,
+        "id": "578",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 90,
+        "id": "579",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "lose",
+        "verb_id": "054"
+    },
+    {
+        "cluster_index": 104,
+        "id": "580",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "open",
+        "verb_id": "059"
+    },
+    {
+        "cluster_index": 130,
+        "id": "581",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "repair",
+        "verb_id": "076"
+    },
+    {
+        "cluster_index": 140,
+        "id": "582",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "set",
+        "verb_id": "083"
+    },
+    {
+        "cluster_index": 156,
+        "id": "583",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "stand_under",
+        "verb_id": "095"
+    },
+    {
+        "cluster_index": 100,
+        "id": "584",
+        "object": "umbrella",
+        "object_index": 25,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 56,
+        "id": "585",
+        "object": "vase",
+        "object_index": 75,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 91,
+        "id": "586",
+        "object": "vase",
+        "object_index": 75,
+        "verb": "make",
+        "verb_id": "055"
+    },
+    {
+        "cluster_index": 109,
+        "id": "587",
+        "object": "vase",
+        "object_index": 75,
+        "verb": "paint",
+        "verb_id": "062"
+    },
+    {
+        "cluster_index": 101,
+        "id": "588",
+        "object": "vase",
+        "object_index": 75,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 44,
+        "id": "589",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "fill",
+        "verb_id": "028"
+    },
+    {
+        "cluster_index": 53,
+        "id": "590",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 143,
+        "id": "591",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "sip",
+        "verb_id": "086"
+    },
+    {
+        "cluster_index": 169,
+        "id": "592",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "toast",
+        "verb_id": "107"
+    },
+    {
+        "cluster_index": 83,
+        "id": "593",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "lick",
+        "verb_id": "049"
+    },
+    {
+        "cluster_index": 177,
+        "id": "594",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "wash",
+        "verb_id": "112"
+    },
+    {
+        "cluster_index": 97,
+        "id": "595",
+        "object": "wine_glass",
+        "object_index": 40,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    },
+    {
+        "cluster_index": 41,
+        "id": "596",
+        "object": "zebra",
+        "object_index": 22,
+        "verb": "feed",
+        "verb_id": "027"
+    },
+    {
+        "cluster_index": 59,
+        "id": "597",
+        "object": "zebra",
+        "object_index": 22,
+        "verb": "hold",
+        "verb_id": "037"
+    },
+    {
+        "cluster_index": 116,
+        "id": "598",
+        "object": "zebra",
+        "object_index": 22,
+        "verb": "pet",
+        "verb_id": "066"
+    },
+    {
+        "cluster_index": 181,
+        "id": "599",
+        "object": "zebra",
+        "object_index": 22,
+        "verb": "watch",
+        "verb_id": "113"
+    },
+    {
+        "cluster_index": 98,
+        "id": "600",
+        "object": "zebra",
+        "object_index": 22,
+        "verb": "no_interaction",
+        "verb_id": "058"
+    }
+]
