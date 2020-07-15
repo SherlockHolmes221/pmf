@@ -22,7 +22,6 @@ CUDA_VISIBLE_DEVICES=1 python -u tools/train_net_step.py \
 --solver_steps 0 150000 250000 \
 --net_name PMFNet_Baseline \
 --triplets_num_per_im 32 \
---debug \
 --expID ${EXP} \
 --load_ckpt data/pretrained_model/e2e_faster_rcnn_R-50-FPN_1x_step119999.pth \
 --use_tfboard |tee ./Outputs/e2e_pmfnet_R-50-FPN_1x/${EXP}/train-log.out
