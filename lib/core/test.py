@@ -1438,7 +1438,8 @@ def hoi_union_res_gather(hoi_blob, im_scale):
     '''
 
     interaction_affinity_score = F.sigmoid(hoi_blob['interaction_affinity_score']).cpu().numpy()  ##N*1
-    interaction_action_score = hoi_blob['interaction_action_score'].cpu().numpy()  ## N*24
+    interaction_action_score = F.sigmoid(hoi_blob['interaction_action_score']).cpu().numpy() 
+    
     interaction_action_score1 = interaction_action_score * interaction_affinity_score
 
     # scale to original image size when testing
