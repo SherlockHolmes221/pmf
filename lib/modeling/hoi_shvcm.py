@@ -78,7 +78,7 @@ class SH_VCM(nn.Module):
         interaction_object_inds = torch.from_numpy(
             hoi_blob['interaction_object_inds']).long().cuda(device_id)
 
-        object_mask = torch.from_numpy(hoi_blob["object_mask"]).float().cuda(device_id)
+        # object_mask = torch.from_numpy(hoi_blob["object_mask"]).float().cuda(device_id)
         #########################################################
 
         x_human = self.box_head(
@@ -159,7 +159,7 @@ class SH_VCM(nn.Module):
         factor_scores += x_pose_line
         verb_prob = nn.Sigmoid()(factor_scores)
 
-        interaction_action_score = verb_prob * object_mask
+        interaction_action_score = verb_prob
 
         hoi_blob['interaction_action_score'] = interaction_action_score  ### multi classification score
         hoi_blob['interaction_affinity_score'] = torch.zeros((factor_scores.shape[0], 1)).cuda(device_id)
@@ -188,15 +188,8 @@ class SH_VCM(nn.Module):
         device_id = interaction_action_score.get_device()
         interaction_action_labels = torch.from_numpy(hoi_blob['interaction_action_labels']).float().cuda(device_id)
 
-        # criterion = nn.BCELoss()
-        # interaction_action_loss = criterion(interaction_action_score, interaction_action_labels)
-
-        copy_num = hoi_blob['copy_num']
-        origin_len = len(copy_num)
-        assert origin_len > 0
-        interaction_action_loss = nn.BCELoss(reduction='none')(interaction_action_score, interaction_action_labels)
-        assert np.sum(copy_num) == interaction_action_loss.size()[0]
-        interaction_action_loss = torch.sum(interaction_action_loss) / 117 / origin_len
+        criterion = nn.BCELoss()
+        interaction_action_loss = criterion(interaction_action_score, interaction_action_labels)
 
         # get interaction branch predict action accuracy
         interaction_action_preds = \
